@@ -51,5 +51,6 @@ Power BI · Excel · Power Query · DAX
 ### Página 2 – Precio Observado vs Precio Sugerido
 ![Dashboard Página 2](images/dashboard_pagina_2.png)
 
--👤 Autor: Jose Rojas 
--📊 Perfil: Analista de Datos / Business Intelligence
+👤 Autor: Jose Rojas 
+
+📊 Perfil: Analista de Datos / Business Intelligence
