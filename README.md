@@ -52,4 +52,5 @@ Power BI · Excel · Power Query · DAX
 ![Dashboard Página 2](images/dashboard_pagina_2.png)
 
 👤 Autor: Jose Rojas 
+
 📊 Perfil: Analista de Datos / Business Intelligence
